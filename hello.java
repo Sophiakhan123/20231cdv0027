@@ -4,4 +4,5 @@ class hello {
        System.out.println("Hello, World");
    }
     System.out.println("Hello main");
+    System.out.println("Hello nextgen");
 }
